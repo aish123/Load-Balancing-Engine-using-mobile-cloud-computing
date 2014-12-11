@@ -1,0 +1,10 @@
+sjsu/cmpe281/requestAndResource/Resources.class
+sjsu/cmpe281/resourceAllocation/AllocateInstance.class
+sjsu/cmpe281/clouwatch/PutMetricDataTest.class
+sjsu/cmpe281/requestAndResource/LocationBased.class
+sjsu/cmpe281/cloud281/LoadBalancerService.class
+sjsu/cmpe281/clouwatch/CloudWatch.class
+spark/template/freemarker/FreeMarkerEngine.class
+sjsu/cmpe281/requestAndResource/ResourceRequest.class
+sjsu/cmpe281/requestAndResource/RequestResourceStorage.class
+sjsu/cmpe281/requestAndResource/ResourceStorage.class
